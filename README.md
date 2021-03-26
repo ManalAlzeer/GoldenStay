@@ -1,6 +1,6 @@
 # GoldenStay
 
-Golden State website for review and rating hoteles
+Golden State website for review and rating hoteles,
 Our website aims to help travelers to have their best experince in their trip by choosing the suitable hotel that matches their needs and expections
 
 ##Snapshots
